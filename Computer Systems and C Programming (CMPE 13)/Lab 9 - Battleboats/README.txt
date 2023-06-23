@@ -1,0 +1,8 @@
+Leonid Shuster (protocol library) with partner Ambrose Hundal (field library)
+Heap size: 2048 bytes
+
+In this lab, we worked with a partner to individually create two libraries, protocol and field, that we then together used in artificial agent. The protocol library was used to create, send, and receive messages between the two pic32s, while the field library was used to generate a field and register adding boats and enemy attacks. The agent then initialized everything and used a switch state machine to decide which functions to use from the libraries.
+
+My approach to the lab was to first read the lab manual to make a plan of what I should do. I then looked at the .h files for protocol, and read about what each function should take and return and then proceeded to implement it. I then tested the function to see that it worked correctly. Working with a partner went well for the most part. When I was confused or when my partner was confused, we were able to ask each other questions. It was helpful to have a partner to help with debugging each other's code.
+
+My partner and I ended up spending 25-30 hours on this lab. We finished writing all functions in the library, but couldn't get it to show up correctly on the OLED. The hardest part was getting started, and making sure that our functions worked correctly. The lab manual's state diagrams could have been more clear, as my partner and I had issues understanding it.

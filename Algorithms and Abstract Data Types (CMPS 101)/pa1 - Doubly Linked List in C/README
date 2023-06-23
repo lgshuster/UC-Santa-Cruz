@@ -1,0 +1,15 @@
+Name: Leonid Shuster, ID #1616143
+CruzID: lshuster
+Assignment name: pa1
+Role: Table of contents
+
+
+List.java - Creates list with nodes that store data, also has various methods to help sort list
+
+ListClient.java - Test client for list ADT
+
+Lex.java - Sorts words by lexicographic order by taking indices of words, placing accordingly into list, and then reverting back to words in sorted order
+
+Makefile - Compiles sources files
+
+README - Table of contents

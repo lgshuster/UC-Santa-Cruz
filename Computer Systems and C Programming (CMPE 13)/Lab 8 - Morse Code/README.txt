@@ -1,0 +1,7 @@
+Leonid Shuster, with help from Maxim Kuznetsov to setup switch machines in MorseDecode, MorseCheckEvents, and main in lab8.c.
+
+In this lab, we worked with a binary tree in order to decode binary messages. We first created a binary tree with a root, nodes, and children that followed the style of morse code, with a dot leading you down the left sub tree and a dash leading you down the right sub tree. Next, we used switch machines that reacted to the length of a press in order to determine whether. The press was a dot, dash, different letter, or different word. We then stored these results in a string and updated it onto the OLED.
+
+Doing this lab, I first started off by reading the lab manual over and over again and reading up online about binary tree until I understood the concept. I then began by implementing the binary trees and printing along the way to check if the functions were returning the right thing. If I were to do this lab differently, I would have drawn out the process of recursion in the binary tree.
+
+I ended up spending around 20-25 hours on this lab. I got stuck in the beginning because I didn't know how exactly to work with recursion functions. I liked that we worked with a new concept and integrated old concepts from previous labs. I wish the lab manual went into more detail about the function and process of each function, and provided more of a plan as to go about the lab. I found myself getting stuck a lot for long periods of time just wondering what to do next.

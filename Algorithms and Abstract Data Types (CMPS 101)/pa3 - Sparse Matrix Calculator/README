@@ -1,0 +1,19 @@
+Name: Leonid Shuster, ID #1616143
+CruzID: lshuster
+Assignment name: pa3
+Role: Table of contents
+
+
+Sparse.java -  Creates two matrices with given criteria from text file and performs operations on them
+
+Matrix.java - Creates matrix with array of lists that each store entries, also has various methods for matrix operations
+
+List.java - Creates list with nodes that store entries, also has various methods to help with matrix operations
+
+MatrixTest.java - Test client for matrix ADT
+
+ListTest.java - Test client for list ADT
+
+Makefile - Compiles sources files
+
+README - Table of contents

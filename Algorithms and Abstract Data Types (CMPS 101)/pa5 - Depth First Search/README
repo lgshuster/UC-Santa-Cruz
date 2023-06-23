@@ -1,0 +1,21 @@
+Name: Leonid Shuster, ID #1616143
+CruzID: lshuster
+Assignment name: pa5
+Role: Table of contents
+
+README - Table of contents
+
+Makefile - Compiles source files
+
+List.c - Creates list with nodes that store data, also has various methods to help sort list
+
+List.h - Header file for List.c
+
+Graph.h - Header file for Graph.h
+
+Graph.c - Creates graph that uses arrays to store info about elements, also has various methods to manipulate graph
+NOTE: Visit() uses second approach with time which is to pass in the address of it
+
+GraphTest.c - Test client for graph ADT
+
+FindComponents.c - Reads in file and creates graph, adds arcs, runs DFS on a graph, and prints out all strongly connected components

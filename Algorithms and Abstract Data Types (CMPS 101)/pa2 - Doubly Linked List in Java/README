@@ -1,0 +1,17 @@
+Name: Leonid Shuster, ID #1616143
+CruzID: lshuster
+Assignment name: pa2
+Role: Table of contents
+
+
+Lex.c - Sorts words by lexicographic order by taking indices of words, placing accordingly into list, and then reverting back to words in sorted order
+
+List.c - Creates list with nodes that store data, also has various methods to help sort list
+
+List.h - Header file for List.c
+
+ListClient.c - Test client for list ADT
+
+Makefile - Compiles sources files
+
+README - Table of contents

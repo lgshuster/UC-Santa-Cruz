@@ -1,0 +1,20 @@
+Name: Leonid Shuster, ID #1616143
+CruzID: lshuster
+Assignment name: pa4
+Role: Table of contents
+
+List.c - Creates list with nodes that store data, also has various methods to help sort list
+
+List.h - Header file for List.c
+
+Graph.c - Creates graph that uses arrays to store info about elements, also has various methods to manipulate graph
+
+Graph.h - Header file for Graph.h
+
+GraphTest.c - Test client for graph ADT
+
+FindPath.c - Reads in file and creates graph, adds edges, and prints out distance and path from source to element
+
+Makefile - Compiles source files
+
+README - Table of contents

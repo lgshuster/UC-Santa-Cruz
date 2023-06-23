@@ -1,0 +1,7 @@
+Leonid Shuster, with help from Maxim Kuznetsov to create FileRead function
+
+In this lab, we worked with reading and parsing files that contained information about the make up of rooms, the items inside, and what rooms they connected to. We then compiled our own makefiles and ran our programs on the UNIX server.
+
+I first approached this lab by reading the lab manual until I understood it. I then read the first .h file, and also read it until I understood it. I then coded every function one by one and ran tests to see if they worked the way I wanted them to. It was a little hard at first to understand how to work with the UNIX server, so I had to search online and spent a bit of time trying to understand how to use it. If I were to do this lab differently, I would have found out more about the UNIX servers before I started coding and trying to run anything.
+
+I spent about 20 hours on this lab. I liked how we used basically all of the concepts that we had learned over the past quarter. I didn't like how we were supposed to learn a new way to compile code in the last week, since a lot of time was spent just trying to figure out how to compile my code and run it. My suggestion is that the lab manual be more descriptive when it came to working with the UNIX server.

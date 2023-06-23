@@ -1,0 +1,7 @@
+Leonid Shuster, had help from Maxim Kuznetsov to setup ProcessToken and ProcessOperator functions, as well several built in string functions.
+
+In this lab, we created a calculator that made calculations in Reverse Polish notation. We used stacks, structs, and built-in functions in order to read a string of floats and operators. We then separated them wherever there was a space, and pushed numbers onto the stack until we saw an operator, which we then used by popping the two most recent values on the stack. We also created messages that would tell the user if their input was invalid. 
+
+The way I did this lab was by following the lab manual. As the lab manual said, I first implemented all of the stack functions by looking at Stack.h, which explained what each function should do and return. I think the lab manual should have had more examples of more complicated RPN problems, and explained more in depth how to use structs. If I were to do this lab again, I implement a lot more tests and print at various places to follow everything that was being passed and returned through the functions.
+
+I spent about 6-8 hours on this lab. Everything was going well except that I had issues with implementing a function that processed the tokens, and made use of the stack functions correctly. I had even more difficulty creating tests for the stack functions. I wrote out all my tests, but for some reason I couldn't figure out why they wouldn't compile. The hardest part was understanding how structs worked. I think there should have been more examples in class.

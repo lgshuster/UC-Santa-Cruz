@@ -1,0 +1,7 @@
+Leonid Shuster, with help from Maxim Kuznetsov to write functions LinkedListSort and SortedWordCount.
+
+In this lab, we worked with structs, pointers, and the heap to create linked lists. We used structs to create a list that would store items and their pointers, and then created a new list that had the items sorted lexicographically and with how many occurrences each word in the list had.
+
+The way I did this lab was by writing each function one at a time, making sure that they took in the right parameters and returned the right outputs. I read the manual first, looked at the function prototypes in LinkedList.h and what their roles should be, and then proceeded to code it. In order to add and remove things from the list, I had to think about how the list was formatted, and what where things are located in the list. To sort the list, I had to take time to think of an algorithm that would sort the lists correctly. If I were to do the lab again, I would draw out more examples with the expected output and try to understand it better.
+
+I spent about 10 hours working on this lab. I did not have enough time to implement efficient tests for the functions, but verified that they worked by trying various inputs and comparing them to expected outputs. The hardest part for me was working with pointers and structs. If I were make the lab better, I would have more of an explanation on pointers and how lists are formed.
